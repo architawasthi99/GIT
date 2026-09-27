@@ -23,4 +23,12 @@ This repository is created to learn and practice Git and GitHub from the basics 
 * Using Markdown in GitHub
 * Understanding the Git workflow
 
-## Git Wor
+## Git Workflow
+
+```bash
+git add .
+git commit -m "Your commit message"
+git push
+```
+
+This repository will be continuously updated as I learn more Git and GitHub concepts and apply them through practical examples and projects.
